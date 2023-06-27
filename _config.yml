@@ -8,7 +8,7 @@ description: Repository and Site for the Prada Lab's eDNA Project
 
 # Only use this if you are serving your site via Github Pages
 github:
-  url: "https://meschedl.github.io/eDNA"
+  url: "https://pradac.github.io/me"
 
 header: yes
 header_sm: images/IMG_1982.jpeg
