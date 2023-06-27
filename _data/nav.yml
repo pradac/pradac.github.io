@@ -1,0 +1,17 @@
+- title: "Home"
+  href: "/"
+
+- title: "Notebook"
+  href: "/blog/"
+
+- title: "Tags"
+  href: "/tags/"
+
+- title: "Sampling"
+  href: "/sampling"
+
+- title: "Primers"
+  href: "/primers"
+
+- title: "Status"
+  href: "/status"

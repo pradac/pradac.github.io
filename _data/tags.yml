@@ -1,0 +1,24 @@
+PCR:
+  name: PCR
+extraction:
+  name: extraction
+COI:
+  name: COI
+MiFish:
+  name: MiFish
+FISH2CB:
+  name: FISH2CB
+L14912_CYB:
+  name: L14912_CYB
+Fish2deg:
+  name: Fish2deg
+Chord_Ceph_Tag_B:
+  name: Chord_Ceph_Tag_B
+Chordata-TA:
+  name: Chordata-TA
+Ceph_16S:
+  name: Ceph_16S
+16S_FD-2Rdeg:
+  name: 16S_FD-2Rdeg
+18S_1F-400R:
+  name: 18S_1F-400R
